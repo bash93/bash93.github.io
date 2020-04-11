@@ -4,7 +4,7 @@ body{
 }
 .header{
    
-    text-align: center;
+    text-align: left;
     background: rgb(100, 50, 133); 
     padding-bottom:5%;
     padding-top: 3%;
@@ -32,14 +32,9 @@ body{
     font-size: 15pt;
 }
 .tworows article:first-child :hover{
-    background:rgb(173,216,230);
+    background:rgba(243, 179, 190, 0.87);
     font-style: italic;
     
-}
-
-.article-img{
-    width:75%;
-    height: 25%;
 }
 
 .sidebar{
@@ -47,7 +42,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-content: center;
-    margin-top: 2%;
+    margin-top: 50%;
     padding-left:2%;
     
 }
