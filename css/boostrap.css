@@ -1,0 +1,13 @@
+.card-text,
+.sidebar p {
+	text-align: justify;
+}
+
+.card-body {
+	border: papayawhip solid 2px;
+}
+
+.footer {
+	color: rgb(200, 150, 37);
+	padding: 15px;
+}
